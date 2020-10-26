@@ -1,0 +1,2 @@
+# WFXWebservicesapp
+dotnetcore
